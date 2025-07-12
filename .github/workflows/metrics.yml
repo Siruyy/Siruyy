@@ -1,8 +1,8 @@
 name: Metrics
 
 on:
-  schedule: [{ cron: "0 0 * * *" }] # every day at midnight
-  workflow_dispatch:
+  schedule: [{ cron: "0 0 * * *" }] # Runs daily at midnight
+  workflow_dispatch:               # Allow manual run
 
 jobs:
   github-metrics:
@@ -12,5 +12,13 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Base sections
           base: header, activity, community
+
+          # Plugins
+          plugin_isocalendar: yes         # Isometric commit calendar
+          plugin_isocalendar_duration: full-year
+
+          plugin_followup: yes            # "For user accounts" plugin (shows contributions, PRs, etc.)
           config_timezone: Asia/Manila
