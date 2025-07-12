@@ -5,4 +5,4 @@
 
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Siruyy/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
 
-![Metrics](https://raw.githubusercontent.com/Siruyy/Siruyy/main/metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Siruyy/Siruyy/main/metrics_renders/metrics.svg)
