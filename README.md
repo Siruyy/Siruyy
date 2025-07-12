@@ -48,14 +48,12 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Siruyy">
-    <img height="200"
-         src="https://github-readme-stats.vercel.app/api?username=Siruyy&theme=apprentice&hide_rank=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/Siruyy">
-    <img height="200"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siruyy&size_weight=0&count_weight=1&theme=apprentice&layout=compact&langs_count=6&card_width=270&hide=css,html" />
-  </a>
+    <img src="https://raw.githubusercontent.com/Siruyy/github-stats-transparent/output/generated/overview.svg"
+     width="400"
+     alt="GitHub Overview" />
+    <img src="https://raw.githubusercontent.com/Siruyy/github-stats-transparent/output/generated/languages.svg"
+     width="400"
+     alt="GitHub Overview" />
 </div>
 
 ---
