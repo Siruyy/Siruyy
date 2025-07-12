@@ -14,7 +14,7 @@
 </div>
 
 ---
-### 🧑‍💻 About Me
+### About Me
 <p align="center">
   I am a fourth-year Computer Science student and full-stack engineer who enjoys building scalable web and mobile applications.<br>
   My work spans Python back-ends, TypeScript/React front-ends, and mobile solutions in Kotlin and Swift.<br>
@@ -23,13 +23,13 @@
 
 <hr>
 
-### 🛠️ Main Tech Stack
+### Main Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,tailwindcss,supabase&perline=6" /><br>
   <img src="https://skillicons.dev/icons?i=postgres,pytorch,docker,kubernetes,azure&perline=6" />
 </p>
 
-### 🧩 Tech I Have Experience In
+### Tech I Have Experience In
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,kotlin,swift,html,css,nodejs,express,htmx,nextjs,django" /><br>
   <img src="https://skillicons.dev/icons?i=flask,fastapi,aws,git,github,vscode,linux,tensorflow,go" /><br>
