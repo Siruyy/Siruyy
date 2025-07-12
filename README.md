@@ -1,3 +1,8 @@
+<!-- ─────────────────────────── HEADER / BANNER ─────────────────────────── -->
+<p align="center">
+  <img src="./SIRUYY.png" alt="Neel Ulysses – header banner" width="100%">
+</p>
+
 <div align="center">
 
 # 👋🏼 Hi there! I’m **Neel** ([@Siruyy](https://github.com/Siruyy))
@@ -9,7 +14,6 @@
 </div>
 
 ---
-
 ### 🧑‍💻 About Me
 <p align="center">
   I am a fourth-year Computer Science student and full-stack engineer who enjoys building scalable web and mobile applications.<br>
@@ -21,21 +25,16 @@
 
 ### 🛠️ Main Tech Stack
 <p align="left">
-  <!-- 11 icons, 2 lines for readability -->
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,tailwindcss,supabase&perline=6" /><br>
   <img src="https://skillicons.dev/icons?i=postgres,pytorch,docker,kubernetes,azure&perline=6" />
 </p>
 
 ### 🧩 Tech I Have Experience In
 <p align="center">
-  <!-- row 1 -->
   <img src="https://skillicons.dev/icons?i=rust,kotlin,swift,html,css,nodejs,express,htmx,nextjs,django" /><br>
-  <!-- row 2 -->
   <img src="https://skillicons.dev/icons?i=flask,fastapi,aws,git,github,vscode,linux,tensorflow,go" /><br>
-  <!-- row 3 -->
   <img src="https://skillicons.dev/icons?i=redis,mongo,mysql,sqlite,figma,firebase,heroku,arduino,raspberrypi,bash" />
 </p>
-
 
 <div align="center">
 
@@ -48,12 +47,8 @@
 ---
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Siruyy/github-stats-transparent/output/generated/overview.svg"
-     width="400"
-     alt="GitHub Overview" />
-    <img src="https://raw.githubusercontent.com/Siruyy/github-stats-transparent/output/generated/languages.svg"
-     width="400"
-     alt="GitHub Overview" />
+  <img src="https://raw.githubusercontent.com/Siruyy/github-stats-transparent/output/generated/overview.svg" width="400" alt="GitHub Overview" />
+  <img src="https://raw.githubusercontent.com/Siruyy/github-stats-transparent/output/generated/languages.svg" width="400" alt="Most-Used Languages" />
 </div>
 
 ---
