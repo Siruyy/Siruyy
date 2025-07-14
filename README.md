@@ -16,7 +16,7 @@
 ---
 ### About Me
 <p align="center">
-  I am a fourth-year Computer Science student and full-stack engineer who enjoys building scalable web and mobile applications.<br>
+  I am a Computer Science graduate and full-stack engineer who enjoys building scalable web and mobile applications.<br>
   My work spans Python back-ends, TypeScript/React front-ends, and mobile solutions in Kotlin and Swift.<br>
   Lately I’ve been exploring machine-learning pipelines and DevOps automation to deliver robust, data-driven products.
 </p>
