@@ -26,13 +26,13 @@
 ### Main Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,tailwindcss,supabase&perline=6" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,pytorch,docker,kubernetes,azure&perline=6" />
+  <img src="https://skillicons.dev/icons?i=postgres,pytorch,docker,kubernetes,azure,php&perline=6" />
 </p>
 
 ### Tech I Have Experience In
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,kotlin,swift,html,css,nodejs,express,htmx,nextjs,django" /><br>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,aws,git,github,vscode,linux,tensorflow,go" /><br>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,aws,git,github,vscode,linux,tensorflow,go,laravel" /><br>
   <img src="https://skillicons.dev/icons?i=redis,mongo,mysql,sqlite,figma,firebase,heroku,arduino,raspberrypi,bash" />
 </p>
 
