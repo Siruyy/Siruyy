@@ -14,10 +14,11 @@
 </div>
 
 ---
+
 ### About Me
 <p align="center">
-  I am a Computer Science graduate and full-stack engineer who enjoys building scalable web and mobile applications.<br>
-  My work spans Python back-ends, TypeScript/React front-ends, and mobile solutions in Kotlin and Swift.<br>
+  I am a full-stack engineer who enjoys building scalable web and mobile applications.<br>
+  My work spans C# back-ends, TypeScript/React front-ends, and mobile solutions in Flutter.<br>
   Lately I’ve been exploring machine-learning pipelines and DevOps automation to deliver robust, data-driven products.
 </p>
 
@@ -25,22 +26,19 @@
 
 ### Main Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,tailwindcss,supabase&perline=6" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,pytorch,docker,kubernetes,azure,php&perline=6" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,tailwindcss,express,mongo,postgres,docker,linux,bash,git,github&perline=7" />
 </p>
 
 ### Tech I Have Experience In
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,kotlin,swift,html,css,nodejs,express,htmx,nextjs,django" /><br>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,aws,git,github,vscode,linux,tensorflow,go,laravel" /><br>
-  <img src="https://skillicons.dev/icons?i=redis,mongo,mysql,sqlite,figma,firebase,heroku,arduino,raspberrypi,bash" />
+  <img src="https://skillicons.dev/icons?i=rust,kotlin,swift,html,css,nodejs,htmx,django,flask,fastapi,aws,vscode,tensorflow,go,laravel,redis,mysql,sqlite,figma,firebase,heroku,arduino,raspberrypi&perline=8" />
 </p>
 
 <div align="center">
 
 | **🖥️ Backend & Data** | **🌐 Web / API Frameworks** | **📱 Mobile / Frontend** | **🛠️ Dev Tools & Cloud** |
 | :--- | :--- | :--- | :--- |
-| Python · Go · Rust · SQL · PostgreSQL | Django · Flask · FastAPI · Express · Next.js · React | React Native · HTMX · Tailwind CSS · Kotlin · Swift | Docker · Kubernetes · AWS · Azure · Supabase · GitHub Actions · n8n · Zapier |
+| Python · Go · Rust · SQL · PostgreSQL · MSSQL | Django · Flask · FastAPI · Express · Next.js · React | React Native · HTMX · Tailwind CSS · Kotlin · Swift | Docker · AWS · Azure · Supabase · GitHub Actions · n8n · Zapier |
 
 </div>
 
