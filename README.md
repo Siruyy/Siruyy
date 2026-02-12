@@ -52,8 +52,8 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Siruyy/github-stats-transparent/output/generated/overview.svg" width="400" alt="GitHub Overview" />
-  <img src="https://raw.githubusercontent.com/Siruyy/github-stats-transparent/output/generated/languages.svg" width="400" alt="Most-Used Languages" />
+  <img src="https://github-readme-stats-aafo-b6geoez76-nerias-projects-d5085e2d.vercel.app/api?username=Siruyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-aafo-b6geoez76-nerias-projects-d5085e2d.vercel.app/api/top-langs/?username=Siruyy&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" />
 </div>
 
 <div align="center">
