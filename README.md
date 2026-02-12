@@ -62,6 +62,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
+
 ---
 
 <!-- ─────────────────────── PROJECTS ─────────────────────── -->
@@ -70,16 +74,16 @@
 
 <div align="center">
   <a href="https://github.com/Siruyy/Invoicing-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siruyy&repo=Invoicing-App&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-aafo-b6geoez76-nerias-projects-d5085e2d.vercel.app/api/pin/?username=Siruyy&repo=Invoicing-App&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Siruyy/chefy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siruyy&repo=chefy&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-aafo-b6geoez76-nerias-projects-d5085e2d.vercel.app/api/pin/?username=Siruyy&repo=chefy&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Siruyy/inventory-tauri">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siruyy&repo=inventory-tauri&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-aafo-b6geoez76-nerias-projects-d5085e2d.vercel.app/api/pin/?username=Siruyy&repo=inventory-tauri&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Siruyy/Flappy-Bird-NEAT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siruyy&repo=Flappy-Bird-NEAT&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-aafo-b6geoez76-nerias-projects-d5085e2d.vercel.app/api/pin/?username=Siruyy&repo=Flappy-Bird-NEAT&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
