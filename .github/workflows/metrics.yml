@@ -20,9 +20,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Manila
-          config_padding: 6%, 10%
-          config_output: svg
-          config_display: large
 
       # Activity & Community metrics
       - uses: lowlighter/metrics@latest
@@ -32,6 +29,3 @@ jobs:
           base: header, activity, community
           plugin_followup: yes
           config_timezone: Asia/Manila
-          config_padding: 6%, 10%
-          config_output: svg
-          config_display: large

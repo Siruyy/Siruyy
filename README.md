@@ -65,7 +65,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Siruyy&theme=holi-theme&hide_border=true" alt="GitHub Streak" height="195" />
+    <img src="https://streak-stats.demolab.com?user=Siruyy&theme=holi-theme&hide_border=true" alt="GitHub Streak" width="380" />
   </a>
   <img src="https://github-readme-stats-aafo-b6geoez76-nerias-projects-d5085e2d.vercel.app/api/wakatime?username=Siruyy&theme=holi&hide_border=true&layout=compact" alt="WakaTime Stats" height="195" />
 </div>
