@@ -66,7 +66,11 @@
 </div>
 
 <div align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics" width="800" />
+  <img src="./metrics-calendar.svg" alt="Contribution Calendar" width="500" />
+</div>
+
+<div align="center">
+  <img src="./metrics-activity.svg" alt="GitHub Activity" width="500" />
 </div>
 
 ---

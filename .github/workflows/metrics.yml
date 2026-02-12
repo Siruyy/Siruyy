@@ -1,8 +1,9 @@
 name: Metrics
 
 on:
-  schedule: [{ cron: "0 0 * * *" }] # Runs daily at midnight
-  workflow_dispatch:               # Allow manual run
+  schedule:
+    - cron: "0 0,12 * * *" # Runs every 12 hours (12am and 12pm UTC)
+  workflow_dispatch:           # Allow manual run
 
 jobs:
   github-metrics:
@@ -10,17 +11,21 @@ jobs:
     permissions:
       contents: write
     steps:
+      # Calendar metrics
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          filename: metrics-calendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Base sections
-          base: header, activity, community
-
-          # Plugins
-          plugin_isocalendar: yes         # Isometric commit calendar
+          base: ""
+          plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Manila
 
-          plugin_followup: yes            # "For user accounts" plugin (shows contributions, PRs, etc.)
+      # Activity & Community metrics
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community
+          plugin_followup: yes
           config_timezone: Asia/Manila
