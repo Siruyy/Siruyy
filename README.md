@@ -5,42 +5,49 @@
 
 <div align="center">
 
-# 👋🏼 Hi there! I’m **Neel** ([@Siruyy](https://github.com/Siruyy))
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Hi!+Welcome+to+my+profile!;Thanks+for+dropping+by!)](https://git.io/typing-svg)
 
-**Software Engineer · ML Enthusiast · Full-stack Web & Mobile Developer**
+**Software Engineer · ML/AI Enthusiast · Full-stack Web & Mobile Developer**
 
 </div>
 
 ---
 
 ### About Me
-<p align="center">
-  I am a full-stack engineer who enjoys building scalable web and mobile applications.<br>
-  My work spans C# back-ends, TypeScript/React front-ends, and mobile solutions in Flutter.<br>
-  Lately I’ve been exploring machine-learning pipelines and DevOps automation to deliver robust, data-driven products.
-</p>
+
+- 🛠️ &nbsp; Full-stack software engineer specializing in end-to-end development of scalable web & mobile apps
+- ☁️ &nbsp; Experienced in architecture, cloud infrastructure, DevOps, and deployment pipelines
+- 🖥️ &nbsp; Back-end systems in **C#** & **Node.js**, front-end with **TypeScript** & **Tailwind** across **Angular** & **Next.js**
+- 📱 &nbsp; Mobile development with **Flutter**
+- 🧠 &nbsp; Expanding into **machine learning** workflows to build data-driven, production-ready solutions
+- 🏠 &nbsp; Self-hosting enthusiast running a **homelab**; Raspberry Pi cluster + mini server setup
 
 <hr>
 
-### Main Tech Stack
+### Main Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,tailwindcss,express,mongo,postgres,docker,linux,bash,git,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,ts,nextjs,angular,tailwind,nodejs,nestjs,bun,postgres,docker,linux,neovim,bash,git,github,aws&perline=8" />
 </p>
 
-### Tech I Have Experience In
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,kotlin,swift,html,css,nodejs,htmx,django,flask,fastapi,aws,vscode,tensorflow,go,laravel,redis,mysql,sqlite,figma,firebase,heroku,arduino,raspberrypi&perline=8" />
+<details>
+<summary><strong>Also Worked With</strong></summary>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,go,kotlin,swift,react,express,django,flask,fastapi,mongo,redis,mysql,sqlite,firebase,tensorflow,figma&perline=8" />
 </p>
+</details>
 
-<div align="center">
-
-| **🖥️ Backend & Data** | **🌐 Web / API Frameworks** | **📱 Mobile / Frontend** | **🛠️ Dev Tools & Cloud** |
-| :--- | :--- | :--- | :--- |
-| Python · Go · Rust · SQL · PostgreSQL · MSSQL | Django · Flask · FastAPI · Express · Next.js · React | React Native · HTMX · Tailwind CSS · Kotlin · Swift | Docker · AWS · Azure · Supabase · GitHub Actions · n8n · Zapier |
-
-</div>
+<details>
+<summary><strong>Homelab & DevOps</strong></summary>
+<br>
+<p align="left">
+  Self-hosting enthusiast running services on a <strong>Raspberry Pi</strong> homelab.<br>
+  Experienced across the full DevOps lifecycle — CI/CD pipelines, containerization, infrastructure automation, and monitoring.
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=raspberrypi,docker,linux,bash,aws,githubactions,nginx&perline=7" />
+</p>
+</details>
 
 ---
 
@@ -48,6 +55,43 @@
   <img src="https://raw.githubusercontent.com/Siruyy/github-stats-transparent/output/generated/overview.svg" width="400" alt="GitHub Overview" />
   <img src="https://raw.githubusercontent.com/Siruyy/github-stats-transparent/output/generated/languages.svg" width="400" alt="Most-Used Languages" />
 </div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Siruyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+<!-- ─────────────────────── PROJECTS ─────────────────────── -->
+
+### Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Siruyy/Invoicing-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siruyy&repo=Invoicing-App&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Siruyy/chefy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siruyy&repo=chefy&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Siruyy/inventory-tauri">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siruyy&repo=inventory-tauri&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Siruyy/Flappy-Bird-NEAT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siruyy&repo=Flappy-Bird-NEAT&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+---
+
+<!-- ──────────────────── CONTRIBUTION SNAKE ──────────────────── -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siruyy/Siruyy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siruyy/Siruyy/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Siruyy/Siruyy/output/github-snake.svg" width="100%" />
+</picture>
 
 ---
 
