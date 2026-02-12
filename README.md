@@ -51,40 +51,22 @@
 
 ---
 
+### Stats
+
 <div align="center">
-  <img src="https://github-readme-stats-aafo-b6geoez76-nerias-projects-d5085e2d.vercel.app/api?username=Siruyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-aafo-b6geoez76-nerias-projects-d5085e2d.vercel.app/api/top-langs/?username=Siruyy&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Siruyy/github-stats-transparent/output/generated/overview.svg" width="400" alt="GitHub Overview" />
+  <img src="https://raw.githubusercontent.com/Siruyy/github-stats-transparent/output/generated/languages.svg" width="400" alt="Most-Used Languages" />
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Siruyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Siruyy&theme=holi-theme&hide_border=true" alt="GitHub Streak" height="195" />
   </a>
+  <img src="https://github-readme-stats-aafo-b6geoez76-nerias-projects-d5085e2d.vercel.app/api/wakatime?username=Siruyy&theme=holi&hide_border=true&layout=compact" alt="WakaTime Stats" height="195" />
 </div>
 
 <div align="center">
   <img src="./metrics.svg" alt="GitHub Metrics" width="100%" />
-</div>
-
----
-
-<!-- ─────────────────────── PROJECTS ─────────────────────── -->
-
-### Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Siruyy/Invoicing-App">
-    <img src="https://github-readme-stats-aafo-b6geoez76-nerias-projects-d5085e2d.vercel.app/api/pin/?username=Siruyy&repo=Invoicing-App&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Siruyy/chefy">
-    <img src="https://github-readme-stats-aafo-b6geoez76-nerias-projects-d5085e2d.vercel.app/api/pin/?username=Siruyy&repo=chefy&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Siruyy/inventory-tauri">
-    <img src="https://github-readme-stats-aafo-b6geoez76-nerias-projects-d5085e2d.vercel.app/api/pin/?username=Siruyy&repo=inventory-tauri&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Siruyy/Flappy-Bird-NEAT">
-    <img src="https://github-readme-stats-aafo-b6geoez76-nerias-projects-d5085e2d.vercel.app/api/pin/?username=Siruyy&repo=Flappy-Bird-NEAT&theme=tokyonight&hide_border=true" />
-  </a>
 </div>
 
 ---
