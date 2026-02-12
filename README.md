@@ -54,6 +54,11 @@
 ### Stats
 
 <div align="center">
+  <img src="./metrics-activity.svg" alt="GitHub Activity" width="400" />
+  <img src="./metrics-calendar.svg" alt="Contribution Calendar" width="400" />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Siruyy/github-stats-transparent/output/generated/overview.svg" width="400" alt="GitHub Overview" />
   <img src="https://raw.githubusercontent.com/Siruyy/github-stats-transparent/output/generated/languages.svg" width="400" alt="Most-Used Languages" />
 </div>
@@ -63,14 +68,6 @@
     <img src="https://streak-stats.demolab.com?user=Siruyy&theme=holi-theme&hide_border=true" alt="GitHub Streak" height="195" />
   </a>
   <img src="https://github-readme-stats-aafo-b6geoez76-nerias-projects-d5085e2d.vercel.app/api/wakatime?username=Siruyy&theme=holi&hide_border=true&layout=compact" alt="WakaTime Stats" height="195" />
-</div>
-
-<div align="center">
-  <img src="./metrics-calendar.svg" alt="Contribution Calendar" width="500" />
-</div>
-
-<div align="center">
-  <img src="./metrics-activity.svg" alt="GitHub Activity" width="500" />
 </div>
 
 ---
