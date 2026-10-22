@@ -1,0 +1,23 @@
+assets/header.svg
+  s_bf735b2001ba3b::t_dac94179437d97 1-40
+README.md
+  s_bf735b2001ba3b::t_466409405edf99 2,5-6,9-10,13,18-20,22,24-26
+  s_bf735b2001ba3b::t_d305b6dbb6e601 14
+  s_bf735b2001ba3b::t_e8cb578fce337c 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1809782c7994eab34c29287470a6d331d2097e09",
+  "prompts": {},
+  "sessions": {
+    "s_bf735b2001ba3b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4c1c313-a4ae-442c-844d-3d2369fa2111",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Siruyy <nulysses.roda@gmail.com>"
+    }
+  }
+}
