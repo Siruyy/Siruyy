@@ -1,0 +1,19 @@
+.github/workflows/chess.yml
+  s_bf735b2001ba3b::t_a7d2dae67ebedc 44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c04015ce556d4831cb804fb74758ed1c8d00a586",
+  "prompts": {},
+  "sessions": {
+    "s_bf735b2001ba3b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4c1c313-a4ae-442c-844d-3d2369fa2111",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Siruyy <nulysses.roda@gmail.com>"
+    }
+  }
+}
