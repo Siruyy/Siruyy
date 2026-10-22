@@ -1,0 +1,90 @@
+assets/chess/white/knight.svg
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1
+tests/move-nowhere.yml
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-13
+assets/chess/black/rook.svg
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1
+tests/restart-not-owner.yml
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-11
+assets/chess/white/queen.svg
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1
+data/settings.yaml
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-68
+tests/scholars-mate.yml
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-28
+assets/chess/white/king.svg
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1
+assets/chess/black/queen.svg
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1
+assets/chess/black/bishop.svg
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1
+.github/workflows/chess.yml
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-45
+.gitignore
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 2-3
+assets/header.svg
+  s_bf735b2001ba3b::t_0524d46581ac41 1,21-23
+assets/chess/white/pawn.svg
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1
+main.py
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-226
+assets/chess/white/bishop.svg
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1
+assets/chess/white/rook.svg
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1
+data/top_moves.txt
+  s_bf735b2001ba3b::t_cc7cfa03049734 1
+src/selftest.py
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-94
+tests/fools-mate.yml
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-18
+assets/chess/black/king.svg
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1
+tests/pawn-promotion.yml
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-44
+tests/two-moves-2.yml
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-12
+src/mockGithub.py
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-60
+tests/insufficient-material.yml
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-848
+README.md
+  s_bf735b2001ba3b::t_cc7cfa03049734 11-48
+  s_bf735b2001ba3b::t_db8b087b882192 2,6,9,49-74
+assets/chess/black/knight.svg
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1
+tests/two-moves-1.yml
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-11
+games/current.pgn
+  s_bf735b2001ba3b::t_cc7cfa03049734 1-10
+data/last_moves.txt
+  s_bf735b2001ba3b::t_cc7cfa03049734 1
+src/markdown.py
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-152
+assets/chess/black/pawn.svg
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1
+tests/stalemate.yml
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-378
+tests/restart-owner.yml
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-11
+requirements.txt
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-3
+tests/game-1.yml
+  s_bf735b2001ba3b::t_98b6bcbd0f1fdd 1-210
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "702d4db8a1bc6b82d311c5b407a5b1e1edba3056",
+  "prompts": {},
+  "sessions": {
+    "s_bf735b2001ba3b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4c1c313-a4ae-442c-844d-3d2369fa2111",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Siruyy <nulysses.roda@gmail.com>"
+    }
+  }
+}
