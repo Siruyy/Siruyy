@@ -1,0 +1,25 @@
+.github/workflows/stats.yml
+  s_bf735b2001ba3b::t_7e48afffb7a3b2 1-40
+profile/stats.svg
+  s_bf735b2001ba3b::t_7e48afffb7a3b2 1-239
+README.md
+  s_bf735b2001ba3b::t_7e48afffb7a3b2 12
+.gitignore
+  s_bf735b2001ba3b::t_093098a12cd23f 3-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aae9b26c9b88bbf9c4c689f3aa6584457d6d0dfd",
+  "prompts": {},
+  "sessions": {
+    "s_bf735b2001ba3b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4c1c313-a4ae-442c-844d-3d2369fa2111",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Siruyy <nulysses.roda@gmail.com>"
+    }
+  }
+}
