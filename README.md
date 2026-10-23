@@ -9,7 +9,7 @@
 <table align="center" border="0">
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Siruyy&show_icons=true&hide_border=true&count_private=true&bg_color=0e0e0e&title_color=ff4b4b&icon_color=ff4b4b&text_color=d6d6d6&ring_color=ff4b4b&card_width=400" alt="GitHub stats" />
+      <img src="./profile/stats.svg" alt="GitHub stats" />
     </td>
     <td valign="top">
       <img src="https://streak-stats.demolab.com?user=Siruyy&hide_border=true&background=0e0e0e&ring=ff4b4b&fire=ff4b4b&currStreakLabel=ff4b4b&sideLabels=d6d6d6&currStreakNum=ffffff&sideNums=ffffff&dates=777777&card_width=400" alt="GitHub streak" />
