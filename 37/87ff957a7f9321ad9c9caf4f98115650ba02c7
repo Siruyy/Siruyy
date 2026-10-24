@@ -1,0 +1,42 @@
+scripts/build_header.py
+  s_bf735b2001ba3b::t_4549c2be39347a 7-14,17-19,24,26-32
+  s_bf735b2001ba3b::t_758a24c9c560c8 1-6,15-16,20-23,25
+README.md
+  s_bf735b2001ba3b::t_d8e086dd5a29ef 6,30
+  s_bf735b2001ba3b::t_576533e8016b1b 11-14,18,21-22,27
+  s_bf735b2001ba3b::t_8cfc76b8c0dde2 19-20
+scripts/build_city.py
+  s_bf735b2001ba3b::t_19925a9dc71dbf 1-49,51-170,172-226
+  s_bf735b2001ba3b::t_1dbda13e48eb8f 50,171
+assets/header.template.svg
+  s_bf735b2001ba3b::t_78f77a7689dbb5 26
+  s_bf735b2001ba3b::t_4549c2be39347a 1-25,27-40
+assets/header.svg
+  s_bf735b2001ba3b::t_758a24c9c560c8 26
+.github/workflows/profile.yml
+  s_bf735b2001ba3b::t_d8e086dd5a29ef 52,55,59,65
+  s_bf735b2001ba3b::t_1b1f01905f800e 56
+  s_bf735b2001ba3b::t_f43447145d11c5 1-47,49-51,53-54,57-58,60-64,66-68
+  s_bf735b2001ba3b::t_230be4517149fe 48
+profile/top-langs.svg
+  s_bf735b2001ba3b::t_576533e8016b1b 1-281
+assets/city.svg
+  s_bf735b2001ba3b::t_d76f4b2e30d7ce 1-28,31-33
+  s_bf735b2001ba3b::t_1dbda13e48eb8f 29-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3787ff957a7f9321ad9c9caf4f98115650ba02c7",
+  "prompts": {},
+  "sessions": {
+    "s_bf735b2001ba3b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4c1c313-a4ae-442c-844d-3d2369fa2111",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Siruyy <nulysses.roda@gmail.com>"
+    }
+  }
+}
