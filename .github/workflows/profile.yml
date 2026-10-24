@@ -1,0 +1,68 @@
+name: Update profile
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "assets/header.template.svg"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: true
+
+env:
+  CARD_COLORS: hide_border=true&card_width=400&bg_color=0e0e0e&title_color=ff4b4b&icon_color=ff4b4b&text_color=d6d6d6&ring_color=ff4b4b
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      # STATS_TOKEN: classic PAT with repo + read:user, so private repos count.
+      - name: Render stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          path: profile/stats.svg
+          fail_on_error: true
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&${{ env.CARD_COLORS }}
+
+      - name: Render top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          path: profile/top-langs.svg
+          fail_on_error: true
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide=html,css,scss&${{ env.CARD_COLORS }}
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Render header and contribution city
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+          BIRTHDAY: ${{ secrets.BIRTHDAY }}
+        run: |
+          python scripts/build_header.py
+          python scripts/build_city.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile assets/header.svg assets/city.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh profile [skip ci]"
+          git push

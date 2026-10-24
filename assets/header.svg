@@ -23,7 +23,7 @@
     <text x="26" y="168" class="g" text-anchor="end">6</text><text x="44" y="168"><tspan class="t">  learning = { </tspan><tspan class="s">"machine learning"</tspan><tspan class="t">, </tspan><tspan class="s">"cybersecurity"</tspan><tspan class="t"> },</tspan></text>
     <text x="26" y="190" class="g" text-anchor="end">7</text><text x="44" y="190"><tspan class="t">  homelab  = </tspan><tspan class="k">nil</tspan><tspan class="t">, </tspan><tspan class="c">-- RIP. rebuilding.</tspan></text>
     <text x="26" y="212" class="g" text-anchor="end">8</text><text x="44" y="212"><tspan class="t">  editor   = </tspan><tspan class="s">"neovim"</tspan><tspan class="t">, </tspan><tspan class="c">-- obviously</tspan></text>
-    <text x="26" y="234" class="g" text-anchor="end">9</text><text x="44" y="234"><tspan class="t">  uptime   = </tspan><tspan class="n">0.99</tspan><tspan class="t">, </tspan><tspan class="c">-- sleep is a dependency</tspan></text>
+    <text x="26" y="234" class="g" text-anchor="end">9</text><text x="44" y="234"><tspan class="t">  uptime   = </tspan><tspan class="s">"23 years"</tspan><tspan class="t">, </tspan><tspan class="c">-- no LTS release yet</tspan></text>
     <text x="26" y="256" class="g" text-anchor="end">10</text><text x="44" y="256" class="t">}</text>
     <text x="26" y="278" class="g" text-anchor="end">11</text><text x="44" y="278"><tspan class="k">return</tspan><tspan class="t"> neel</tspan></text>
     <rect x="137" y="265" width="9" height="17" fill="#ff4b4b" class="cur"/>
